@@ -1,2 +1,6 @@
 # Open API KEY and INFO 
 src/openApi.py
+
+# DB Data
+Map Visualization/data/*.xlsx
+
