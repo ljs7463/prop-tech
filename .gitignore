@@ -1,6 +1,9 @@
 # Open API KEY and INFO 
 src/openApi.py
 
+# Map Visualization result picture
+Map Visualization/result/*.html
+
 # DB Data
 Map Visualization/data/*.xlsx
 
