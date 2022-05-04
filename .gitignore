@@ -7,3 +7,5 @@ Map Visualization/result/*.html
 # DB Data
 Map Visualization/data/*.xlsx
 
+# 개발 문서화 
+Real estate Analysis/*.text
