@@ -1,8 +1,5 @@
-# Open API KEY and INFO 
-src/openApi.py
-
-# Visualization Function
-src/function.py 
+# Open API KEY and Funtion
+src/*.py
 
 # Map Visualization result picture
 Map Visualization/result/*.html
