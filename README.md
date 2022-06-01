@@ -4,4 +4,5 @@
 - Map Visualization : 공간데이터를 활용한 지도시각화 
 - Real estate Analysis : 부동산 데이터 분석 및 다양한 지표 생성
 - docs : 사용한 데이터와 그와 관련된 내용 정리 (일부)
-- src : 소스코드 
+- src : 소스코드 및 기타 API키와 개인적으로 만든 모듈들을 보관하고 있고 대부분은 ignore로 잠겨있습니다
+
