@@ -11,3 +11,9 @@ Map Visualization/data/*.xlsx
 
 # 개발 문서화 
 Real estate Analysis/*.txt
+
+# 명세서 
+.text
+.txt
+/.text
+/.txt
