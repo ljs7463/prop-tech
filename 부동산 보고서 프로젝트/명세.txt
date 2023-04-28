@@ -1,0 +1,2 @@
+price_origin 테이블에 데이터를 넣을떄 필터된 데이터의 경우 
+averagePyeong, averagePrice 컬럼 데이터 제거
